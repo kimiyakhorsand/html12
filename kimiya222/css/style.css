@@ -1,0 +1,27 @@
+.a {
+    width: 27%;
+    height: 158px;
+    background-color: rgba(241, 190, 232, 0.907);
+    border: 20px red;
+    min-width: 17rem;
+}
+.container1 {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 1440px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.w{
+    margin-top: 20px;
+}
+.d {
+    font-size: 12px;
+}
+.s {
+    font-size: 12px;
+}
+.e {
+    width: ;
+}
